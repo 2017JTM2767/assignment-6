@@ -78,10 +78,10 @@ if(resp=="yes"):
 	
 	while(flag=="True"):
 	
-	flag = play_game(player1)
-	print flag
-        flag = play_game(player2)
-	print flag
+		flag = play_game(player1)
+		print flag
+		flag = play_game(player2)
+		print flag
 
 
 #for i in range(3):
